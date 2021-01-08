@@ -1,29 +1,30 @@
 ---
-title: "Kale Rissoto"
-date: 2021-01-06T23:39:57Z
-draft: false
----
+title: Kale Rissoto
+date: 2021-01-06T23:39:57.000+00:00
 
+---
 We all miss the rich bounty of summer sometimes don't we? But you want to keep your food seasonal and local even in the colder months don't you? Sometimes winter veggies don't seem all that appealing. But take kale, a humble cabbage available even in the miserable English winter, add some risotto rice and you can create a delicacy with flavours as rich as any summer dish. Try this and you'll be missing it come July.
 
 We used two kinds of kale here, Pentland Brig kale is a wider leaf variety used here to create a rich green 'pesto' for the risotto itself. We also crisped up some regular curly kale in the oven to add a bit of texture to the finished dish. If you can only find curly kale that would be fine too but do try cooking in the two ways to get the full effect of this super veg.
 
+![](/uploads/kale.jpg)
+
 ## Ingredients:
 
-- 150g Pentland Brig kale, trimmed and roughly chopped
-- 200g curly kale, trimmed and roughly chopped
-- 800ml vegetable stock
-- 1 onion finely chopped
-- 2 sticks of celery finely chopped
-- 3 cloves of garlic finely chopped
-- 180g Canoroli rice
-- 10 sage leaves
-- a sprig of lemon thyme
-- 2 bay leaves
-- 50g butter
-- 50g grated vegetarian parmesan
-- Olive oil
-- Salt and black pepper
+* 150g Pentland Brig kale, trimmed and roughly chopped
+* 200g curly kale, trimmed and roughly chopped
+* 800ml vegetable stock
+* 1 onion finely chopped
+* 2 sticks of celery finely chopped
+* 3 cloves of garlic finely chopped
+* 180g Canoroli rice
+* 10 sage leaves
+* a sprig of lemon thyme
+* 2 bay leaves
+* 50g butter
+* 50g grated vegetarian parmesan
+* Olive oil
+* Salt and black pepper
 
 Optional: toasted almonds and oven dried cherry tomatoes to serve
 
